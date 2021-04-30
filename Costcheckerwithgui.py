@@ -21,9 +21,6 @@ class WindowFrame(wx.Frame):
         if inputBox.ShowModal() == wx.ID_OK:
             itemId = inputBox.GetValue()
             return itemId
-    
-    
-    def returnWindow
         
             
 if __name__ == '__main__':
